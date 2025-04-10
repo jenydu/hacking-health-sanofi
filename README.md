@@ -1,2 +1,12 @@
 # hacking-health-sanofi
-Team Algo Rx's submission to the Sanofi Hacking Health Hackathon
+
+Topic: Trusted Data Foundations
+
+Team: Algo Rx
+
+Members:
+- Jenny Du
+- Faisal Rajan
+- Pierre Sanchez
+- Clarissa Yu
+
