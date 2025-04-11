@@ -7,5 +7,6 @@ Team: Algo Rx
 Members:
 - Jenny Du
 - Faisal Rajan
+- Plaban Roy
 - Pierre Sanchez
 - Clarissa Yu
